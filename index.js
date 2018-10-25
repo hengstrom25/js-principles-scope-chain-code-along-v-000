@@ -10,4 +10,6 @@ function setBestCustomer() {
   bestCustomer = 'not bob';
 }
 
-let overWriteBestCustomer = best
+function overWriteBestCustomer() {
+  bestCustomer = 'rob'
+}
